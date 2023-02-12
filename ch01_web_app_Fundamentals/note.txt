@@ -1,0 +1,4 @@
+The 1st rule of web development: Always keep the Developer Console open on your web browser. 
+
+The server and the web browser communicate with each other using the HTTP protocol. The Network tab shows how the browser and the server communicate.
+

@@ -1,0 +1,15 @@
+.input {
+  display: block;
+  align-items: center;
+  width: 50%;
+  height: fit-content;
+  border: 3px solid blue;
+  padding: 5px;
+  margin: 2px;
+  background-color: bisque;
+}
+
+.importance {
+  padding-left: 5%;
+  background-color: bisque;
+}

@@ -1,3 +1,4 @@
+import Currency from "./Currency";
 
 function App() {
   return (
@@ -5,6 +6,7 @@ function App() {
       <header className="App-header">
         Hello World
       </header>
+      <Currency />
     </div>
   );
 }
